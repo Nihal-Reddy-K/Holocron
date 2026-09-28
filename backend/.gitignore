@@ -1,0 +1,8 @@
+__pycache__/
+*.py[cod]
+.env
+.venv/
+venv/
+data/sessions.json
+data/*.tmp
+.pytest_cache/
